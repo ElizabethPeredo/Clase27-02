@@ -17,7 +17,9 @@ public class SistemaDeVentas {
     public static void main(String[] args) {
         // TODO code application logic here
         int x=0;
-        int y=0;
+        int y=3;
+        int suma=0;
+        
         
     }
     
